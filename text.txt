@@ -3,5 +3,3 @@ second l1ne
 
 first line
 second line
-
-new line
